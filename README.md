@@ -1,66 +1,83 @@
-# 👋 Hi, I'm Sandeep Saini
+# Hi, I'm Sandeep Saini 👋
 
-Backend-focused Software Developer with experience building scalable APIs, databases, and real-world systems.  
-I enjoy turning complex problems into clean, maintainable backend solutions.
-
----
-
-## 🧠 What I Work On
-- Designing and building backend systems
-- REST APIs & authentication workflows
-- Database modeling & optimization
-- Writing clean, production-ready code
-- Improving system performance and reliability
+Software Development Engineer focused on **backend and full-stack development**.  
+I enjoy building **production-ready APIs, SaaS products, and automation tools**.
 
 ---
 
-## 🛠 Tech Stack
-**Languages**
-- Python
-- JavaScript (Node.js)
+## 👨‍💻 About Me
+- Backend / Full-Stack Developer (Node.js, Python)
+- Experience building and deploying **SaaS applications**
+- Strong interest in **API design, authentication, and automation**
+- Looking for **SDE-1 / Backend Engineer** roles
 
-**Backend & APIs**
-- FastAPI
-- Django (Basics)
-- RESTful APIs
-- JWT Authentication
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- Next.js, React
+- Tailwind CSS, HTML, CSS, JavaScript
+
+**Backend**
+- Node.js, Express.js
+- REST APIs, JWT Authentication
+- Python (automation & scripting)
 
 **Databases**
-- PostgreSQL
-- MySQL
 - MongoDB
+- PostgreSQL
+- Prisma ORM
 
-**Tools & DevOps**
+**Tools**
 - Git & GitHub
-- Docker (Basics)
-- Linux
 - Postman
+- Vercel
+- n8n
 
 ---
 
-## 🚀 Featured Projects
-🔹 **DevHire Platform (Backend)**
-- Job & hiring platform backend
-- Authentication, role-based access
-- Clean modular architecture
-- FastAPI + PostgreSQL
+## 🚀 Projects
 
-🔹 **Real-world API Services**
-- CRUD systems
-- Secure auth & token handling
-- Pagination, validation, error handling
+### 🔹 SignFlow – Digital Document Signing SaaS
+- Built a SaaS platform for document upload, recipient assignment, and e-signature workflows.
+- Developed backend APIs for document management, access control, and signer tracking.
+- Implemented JWT authentication and secure file handling.
+- Deployed and maintained the application in production.
 
-> More projects below ⬇️
+**Tech:** Node.js, Express.js, MongoDB, Next.js, REST APIs
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Getsand&show_icons=true&theme=default)
+### 🔹 Influenceezy – Influencer Marketing Platform
+- Developed a full-stack platform connecting brands and influencers.
+- Built backend APIs for authentication and core workflows.
+- Worked on deployment, bug fixes, and performance improvements.
+
+**Tech:** Next.js, Node.js, MongoDB, Tailwind CSS
 
 ---
 
-## 🤝 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/sandeep-saini-055278201/
-- Email: sandeepsaini11101@gmail.com
+### 🔹 LinkedIn Lead Automation Tool
+- Built a Python automation tool to extract LinkedIn lead data and export it to Google Sheets.
+- Improved data accuracy using structured parsing and validation.
 
-Open to backend roles, freelance work, and collaboration on real-world products.
+**Tech:** Python, Automation Scripts
+
+---
+
+## 📈 What I'm Working On
+- Improving backend architecture and API performance
+- Learning deeper system design fundamentals
+- Writing cleaner, more maintainable code
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: sandeepsaini11101@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sandeep-saini-055278201/
+- 🌐 Portfolio: https://www.thesandy.xyz/
+
+---
+
+⭐ Feel free to check out my repositories and projects!
